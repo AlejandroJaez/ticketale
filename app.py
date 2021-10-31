@@ -16,7 +16,7 @@ def hello_world(path):
     p.set(align='center')
     p.image('celfun.png', high_density_vertical=True, high_density_horizontal=True)
     p.set(align='center', bold=False, double_height=False, double_width=False)
-    p.text("\n\nHEZC850515PY1\n")
+    p.text("\nHEZC850515PY1\n")
     p.text("Col. Cuernavaca Centro c.p. 62000\n")
     p.text("Cuernavaca, Morelos\n")
     p.text("******************************************\n\n")
